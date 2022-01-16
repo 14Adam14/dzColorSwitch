@@ -33,10 +33,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-    
-        
-        
-        
         
         mainColorView.layer.cornerRadius = 15
         
@@ -61,9 +57,6 @@ class ViewController: UIViewController {
         blueTextLabel.text = "blue "
         blueValueLabel.text = ""
         
-        
-       
-       
         
         
         // Do any additional setup after loading the view.
