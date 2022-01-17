@@ -49,13 +49,13 @@ class ViewController: UIViewController {
         
         
         redTextLabel.text = "red "
-        redValueLabel.text = ""
+        redValueLabel.text = "   "
         
         greenTextLabel.text = "green "
-        greenValueLabel.text = ""
+        greenValueLabel.text = "   "
         
         blueTextLabel.text = "blue "
-        blueValueLabel.text = ""
+        blueValueLabel.text = "   "
         
         
         
